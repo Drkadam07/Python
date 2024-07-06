@@ -1,1 +1,1 @@
-# Python projects ![Uploading StickingTongueOutNationalGeographicGIF.gif…]()
+# Python projects 
