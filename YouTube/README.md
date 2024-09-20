@@ -2,10 +2,10 @@
 
 ## YouTube Projects
 
-- [ID Card Generator](https://github.com/your-username/id-card-generator)
-- [Voice Assistant](https://github.com/your-username/voice-assistant)
-- [YouTube Playlist Download](https://github.com/your-username/yt-playlist-download)
-- [YouTube Video Download](https://github.com/your-username/yt-video-download)
+- [ID Card Generator](YouTube/ID_Card_Generator.py)
+- [Voice Assistant](YouTube/VoiceAssistant.py)
+- [YouTube Playlist Download](YouTube/Playlist.py)
+- [YouTube Video Download](YouTube/YouTubeVideo.py)
 
 ## Technologies Used
 
