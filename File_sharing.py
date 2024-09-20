@@ -1,28 +1,19 @@
 # import necessary modules
-
 # for implementing the HTTP Web servers
 import http.server
-
 # provides access to the BSD socket interface
 import socket
-
 # a framework for network servers
 import socketserver
-
 # to display a Web-based documents to users
 import webbrowser
-
 # to generate qrcode
 import pyqrcode
 from pyqrcode import QRCode
-
 # convert into png format
 import png
-
 # to access operating system control
 import os
-
-
 # assigning the appropriate port value
 PORT = 8010
 # this finds the name of the computer user
